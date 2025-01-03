@@ -59,8 +59,9 @@ https://drive.google.com/file/d/1hJOXNpOUXOpyjsrBt1O8MyIJHfWgzakS/view
 
 This SQL-based analysis provided valuable insights into pricing, customer preferences, and product performance. The key findings can inform strategic decisions in pricing, inventory management, and marketing. For instance, leveraging discounts effectively, enhancing product features like fast charging, and addressing customer feedback are actionable steps that can drive sales and improve customer satisfaction.
 
-Furthermore, the analysis highlights the importance of understanding customer behavior and preferences. By aligning product offerings with these insights, the business can better meet customer needs, optimize inventory, and enhance overall profitability. Regular monitoring and updating of these SQL queries can help maintain a dynamic approach to product management and marketing strategies.## Author
+Furthermore, the analysis highlights the importance of understanding customer behavior and preferences. By aligning product offerings with these insights, the business can better meet customer needs, optimize inventory, and enhance overall profitability. Regular monitoring and updating of these SQL queries can help maintain a dynamic approach to product management and marketing strategies.
 
+## Author 
 Anchal Dayal 
 
 [LinkedIn](www.linkedin.com/in/anchal-dayal0826)
